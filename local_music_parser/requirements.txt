@@ -1,0 +1,15 @@
+# Core
+librosa>=0.10.0
+numpy>=1.24.0
+pandas>=2.0.0
+tqdm>=4.66.0
+
+# Audio I/O
+soundfile>=0.12.0
+
+# OpenL3
+openl3>=0.4.2
+
+# CLAP
+laion-clap>=1.1.4
+transformers>=4.36.0

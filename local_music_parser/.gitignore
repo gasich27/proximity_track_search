@@ -1,0 +1,28 @@
+# IDE
+.vscode/
+.idea/
+
+# Python bytecode and caches
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.pyd
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Runtime artifacts
+*.log
+*.session
+
+# Local audio input and temporary caches
+input_mp3/
+data/audio_cache/
+
