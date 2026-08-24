@@ -1,18 +1,11 @@
-# Core
-librosa>=0.10.0
-numpy>=1.24.0
-pandas>=2.0.0
-tqdm>=4.66.0
+python-dotenv>=1.0.0
 telethon>=1.34.0
-qrcode>=7.4.2
-
-# Librosa (classical)
+numpy>=1.24.0,<2.0.0
+librosa>=0.10.0
 soundfile>=0.12.0
-
-# OpenL3
 openl3>=0.4.2
-
-
-# CLAP
+tensorflow>=2.16.0,<2.21.0
+tensorflow-hub>=0.16.0
 laion-clap>=1.1.4
-
+torch>=2.7.0,<2.8.0
+torchvision>=0.22.0,<0.23.0
